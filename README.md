@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning JAVA
-- 📫 How to reach me: Twitter - @anandabhishek_1
+- 📫 How to reach me: https://twitter.com/anandabhishek_1
 
 <!--
 **anandabhishek01/anandabhishek01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
