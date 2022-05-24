@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning C and JAVA 
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: https://twitter.com/anandabhishek_1 ,  https://www.linkedin.com/in/anandabhishek01/                    
 
 <!--
